@@ -1,2 +1,2 @@
-# lab5-regex
+# lab6-regex
 Laboratorio de expresiones regulares
